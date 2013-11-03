@@ -1,0 +1,4 @@
+{
+	"source/src/custom-modules/sample-name-module.js": "source/src/custom-modules/sample-{%= name %}-module.js",
+	"source/test/sample-name-test.js": "source/test/sample-{%= name %}-test.js"
+}
